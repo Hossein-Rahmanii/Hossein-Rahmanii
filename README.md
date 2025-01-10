@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">A frontend developer(;</h3>
 ![My GIF](https://raw.githubusercontent.com/Hossein-Rahmanii/Hossein-Rahmanii/main/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
-![212749171-b84692a8-2b04-4e3b-93ca-ac14705da224](https://github.com/user-attachments/assets/e41144ea-e71d-45df-8d43-6a688892efdd)
+
+<img src="https://raw.githubusercontent.com/Hossein-Rahmanii/Hossein-Rahmanii/main/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="gif" width="300" height="540">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein-rahmanii&label=Profile%20views&color=0e75b6&style=flat" alt="hossein-rahmanii" /> </p>
 
