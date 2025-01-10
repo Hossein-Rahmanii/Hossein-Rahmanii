@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer(;</h3>
 ![My GIF](https://raw.githubusercontent.com/Hossein-Rahmanii/Hossein-Rahmanii/main/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
-<img src="https://raw.githubusercontent.com/Hossein-Rahmanii/Hossein-Rahmanii/main/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="gif" width="300" height="540">
+<img src="https://raw.githubusercontent.com/Hossein-Rahmanii/Hossein-Rahmanii/main/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="gif" width="100%" height="auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein-rahmanii&label=Profile%20views&color=0e75b6&style=flat" alt="hossein-rahmanii" /> </p>
 
